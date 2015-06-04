@@ -111,20 +111,22 @@ a{
 /* pokuasi additions */
 #content {
 	background-color: rgba(255,255,255,0.4);
-	width:500px;
-	height: 250px;
-	padding: 30px;
+	width:300px;
+	height: 180px;
+	padding: 15px;
 	font-family: 'Roboto', Arial, sans-serif;
-	font-size: 25px;
+	font-size: 20px;
 }
 
 .button {
 	font-family: 'Roboto', Arial, sans-serif;
 	background-color: #ffffff;
-	font-size: 20px;
-	margin-top:20px;
-	padding:10px;
+	font-size: 15px;
+	margin-top:10px;
+	padding:5px;
 	border: none;
+	height:30px;
+	width: 100px;
 }
 .button:hover {
 	cursor: pointer;
@@ -133,23 +135,21 @@ a{
 input:focus { outline: none; }
 .email{
 	font-family: 'Roboto', Arial, sans-serif;
-	font-size: 20px;
-	width: 480px;
-	height:30px;
+	font-size: 15px;
+	width: 280px;
+	height:20px;
 	border:5px solid black;
 	padding-left:10px;
-
-
 }
 
 #insta {
-	margin-top:25px;
+	margin-top:10px;
 }
 #link {
 	text-decoration: none;
 	color:black;
-	font-size: 20px;
 	padding-left:1px;
 	vertical-align: text-top;
+	font-size: 15px;
 
 }
