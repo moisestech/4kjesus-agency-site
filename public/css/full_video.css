@@ -1,0 +1,10 @@
+section.full-video {
+	position: relative;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	z-index: 0;
+}
+	.full-video video {
+		width: 100%;
+	}
